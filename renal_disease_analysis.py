@@ -1,3 +1,9 @@
+;==========================================
+; Title:  renal decease data example for a joint model with GPU support
+; Author: Shikun Wang
+; Date:   1 Dec 2020
+;==========================================
+
 import os
 a = (os.getcwd())
 import sys

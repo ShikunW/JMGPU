@@ -1,5 +1,10 @@
 
 # -*- coding: utf-8 -*-
+;==========================================
+; Title:  algorithm for a joint model with GPU support
+; Author: Shikun Wang
+; Date:   1 Dec 2020
+;==========================================
 """
     algorithm.py defines all functions runs only on CPU:
     Stagquantie1(dat, ns0, lbda=np.empty(0), knots=np.empty(0)):
